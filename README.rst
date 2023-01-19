@@ -1,7 +1,7 @@
 discord.py
 ==========
 
-.. image:: https://discord.com/api/guilds/470218066609831936/embed.png
+.. image:: https://discord.com/api/guilds/992139552296796281/embed.png
    :target: https://discord.gg/FNDu9j2f
    :alt: Discord server invite
 .. image:: https://img.shields.io/pypi/v/discord.py.svg
